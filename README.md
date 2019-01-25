@@ -1,6 +1,5 @@
 # usefull-shit
-just some pieces of code i made , could be usefull one day  ... maybe not test
-
+just some pieces of code i made , could be usefull one day  ... maybe not
 
 > HashTable_C : just a simple  hash-table made in C
 
